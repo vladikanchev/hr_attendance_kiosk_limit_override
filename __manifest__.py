@@ -4,7 +4,7 @@
     "category": "Human Resources",
     "summary": "Limits Kiosk Mode Check-in and Check-out by time",
     "author": "Vladi",
-    "depends": ["hr_attendance"],
+    "depends": ["hr_attendance","web"],
     "data": [],
     "installable": True,
     "application": False,
